@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Sou estudante de Análise e Desenvolvimento de Sistemas, com um foco especial em desenvolvimento frontend. Estou em busca da minha primeira oportunidade como desenvolvedora frontend júnior e tenho me dedicado a aprimorar minhas habilidades por meio de cursos de programação e projetos práticos.</p>
+<p align="left">Sou desenvolvedora frontend em formação em Análise e Desenvolvimento de Sistemas, com foco em React.js. Desenvolvo projetos práticos para aprimorar habilidades em componentização, JavaScript moderno, estilização com CSS e boas práticas de versionamento com Git/GitHub. Tenho interesse em criar interfaces acessíveis, reutilizáveis e com boa experiência do usuário..</p>
 
 ###
 
